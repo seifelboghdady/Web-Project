@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greenfood - Login</title>
+    <link rel="stylesheet" href="css/style_login.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="welcome-title">Welcome to Greenfood</h1>
+        <form action="#" method="POST">
+            <label for="name">Name</label>
+            <input id="name" type="text" placeholder="Enter your name" required>
+
+            <label for="email">Email</label>
+            <input id="email" type="email" placeholder="Enter your email" required>
+
+            <label for="password">Password</label>
+            <input id="password" type="password" placeholder="Enter password" required>
+
+            <label for="nationalNumber">National Number</label>
+            <input id="nationalNumber" type="text" placeholder="Enter national number" required>
+
+            <label>Choose your favorite language:</label>
+            <div class="languages">
+                <label for="english">
+                    <input type="checkbox" id="english"> English
+                </label>
+                <label for="arabic">
+                    <input type="checkbox" id="arabic"> Arabic
+                </label>
+                <label for="french">
+                    <input type="checkbox" id="french"> French
+                </label>
+                <label for="german">
+                    <input type="checkbox" id="german"> German
+                </label>
+                <label for="chinese">
+                    <input type="checkbox" id="chinese"> Chinese
+                </label>
+            </div>
+
+            <div class="gender">
+                <label>Gender:</label>
+                <label for="male">
+                    <input type="radio" id="male" name="gender"> Male
+                </label>
+                <label for="female">
+                    <input type="radio" id="female" name="gender"> Female
+                </label>
+            </div>
+
+            <input type="submit" value="Login">
+        </form>
+    </div>
+</body>
+</html>
