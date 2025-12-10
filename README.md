@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1.  [🚀 Executive Summary](#-executive-summary)
+1.  [🚀 Executive Summary](#1--executive-summary)
 2.  [🔗 Live Demonstration](#-live-demonstration)
 3.  [📌 Project Overview](#-project-overview)
 4.  [🧩 Key Features](#-key-features)
