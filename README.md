@@ -66,7 +66,7 @@ Web-Project/
 ├── script.js             # Client-side logic for interactivity (e.g., event listeners, dark mode function)
 └── assets/               # Directory for static media
     └── (images, icons, etc.)
-
+```
 ## 7. ⚙️ Local Development & Getting Started
 
 To get a copy of the project running on your local machine for development or review:
