@@ -3,16 +3,16 @@
 ## Table of Contents
 
 1.  [🚀 Executive Summary](#1--executive-summary)
-2.  [🔗 Live Demonstration](#-live-demonstration)
-3.  [📌 Project Overview](#-project-overview)
-4.  [🧩 Key Features](#-key-features)
-5.  [🛠 Technology Stack](#-technology-stack)
-6.  [📁 Project Structure & File System](#-project-structure--file-system)
-7.  [⚙️ Local Development & Getting Started](#️-local-development--getting-started)
-8.  [🧭 Usage & Interaction](#-usage--interaction)
-9.  [📸 Visuals & User Interface](#-visuals--user-interface)
-10. [📚 Lessons Learned & Technical Growth](#-lessons-learned--technical-growth)
-11. [👤 Author & Contributions](#-author--contributions)
+2.  [🔗 Live Demonstration](#2--live-demonstration)
+3.  [📌 Project Overview](#3--project-overview)
+4.  [🧩 Key Features](#4--key-features)
+5.  [🛠 Technology Stack](#5--technology-stack)
+6.  [📁 Project Structure & File System](#6--project-structure--file-system)
+7.  [⚙️ Local Development & Getting Started](#️7--local-development--getting-started)
+8.  [🧭 Usage & Interaction](#8--usage--interaction)
+9.  [📸 Visuals & User Interface](#9--visuals--user-interface)
+10. [📚 Lessons Learned & Technical Growth](#10--lessons-learned--technical-growth)
+11. [👤 Author & Contributions](#11--author--contributions)
 
 ---
 
